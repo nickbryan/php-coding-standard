@@ -1,0 +1,52 @@
+
+PHP CODE SNIFFER REPORT SUMMARY
+----------------------------------------------------------------------
+FILE                                                  ERRORS  WARNINGS
+----------------------------------------------------------------------
+tests/input/arrays.php                                21      0
+tests/input/assignment_operators.php                  4       0
+tests/input/binary_operators.php                      10      0
+tests/input/class_references.php                      11      0
+tests/input/class_structure.php                       40      0
+tests/input/commenting.php                            1       1
+tests/input/concatenation_spacing.php                 48      0
+tests/input/constants_no_lsb.php                      2       0
+tests/input/constants_var.php                         4       0
+tests/input/control_structures.php                    20      0
+tests/input/doc_comment_spacing.php                   17      0
+tests/input/duplicate_assignment_variable.php         2       0
+tests/input/early_return.php                          7       0
+tests/input/example_class.php                         45      0
+tests/input/forbidden_comments.php                    14      0
+tests/input/forbidden_functions.php                   6       0
+tests/input/inline_type_hint_assertions.php           13      0
+tests/input/lower_case_types.php                      4       0
+tests/input/namespaces_spacing.php                    8       0
+tests/input/naming_camel_case.php                     10      0
+tests/input/negation_operator.php                     2       0
+tests/input/new_with_parentheses.php                  33      0
+tests/input/not_spacing.php                           8       0
+tests/input/null_coalesce_operator.php                6       0
+tests/input/optimized_functions.php                   1       0
+tests/input/return_type_on_closures.php               43      0
+tests/input/return_type_on_methods.php                49      0
+tests/input/semicolon_spacing.php                     3       0
+tests/input/single_line_array_spacing.php             6       0
+tests/input/spread_operator.php                       16      0
+tests/input/static_closures.php                       1       0
+tests/input/superfluous_naming.php                    10      0
+tests/input/test_case.php                             10      0
+tests/input/trailing_comma_on_array.php               2       0
+tests/input/traits_uses.php                           12      0
+tests/input/type_hints.php                            7       0
+tests/input/unused_variables.php                      3       0
+tests/input/use_ordering.php                          1       0
+tests/input/useless_conditions.php                    21      0
+tests/input/useless_semicolon.php                     2       0
+----------------------------------------------------------------------
+A TOTAL OF 523   ERRORS AND 1 WARNING WERE FOUND IN 40 FILES
+----------------------------------------------------------------------
+PHPCBF CAN FIX 333 OF THESE SNIFF VIOLATIONS AUTOMATICALLY
+----------------------------------------------------------------------
+
+

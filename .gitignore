@@ -1,0 +1,6 @@
+vendor/
+phpcs.xml
+composer.lock
+tests/diff_fixed
+tests/temp_fixed
+phpcs.log
